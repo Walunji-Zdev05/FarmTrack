@@ -14,11 +14,10 @@ FarmTrack is a web platform that creates complete transparency in Malawi's maize
 
 🌾 **For Farmers**:
 
-•	Simple batch creation and tracking
+    •	Simple batch creation and tracking  
+    •	Digital farm records management
 
-•	Digital farm records management
-
-•	Quality certification documentation
+  •	Quality certification documentation
 
 •	Direct consumer feedback channel
 
