@@ -14,41 +14,42 @@ FarmTrack is a web platform that creates complete transparency in Malawi's maize
 
 🌾 **For Farmers**:
 
-    •	Simple batch creation and tracking  
-    •	Digital farm records management
+     •	Simple batch creation and tracking 
+     
+     •	Digital farm records management
 
-  •	Quality certification documentation
+     •	Quality certification documentation
 
-•	Direct consumer feedback channel
+     •	Direct consumer feedback channel
 
 🏢 **For Businesses (Cooperatives, Processors, Retailers)**:
 
-•	Batch verification and quality assurance  
+     •	Batch verification and quality assurance  
 
-•	Supply chain compliance documentation
+     •	Supply chain compliance documentation
 
-•	Inventory management integration
+     •	Inventory management integration
 
-•	Brand differentiation through transparency
+     •	Brand differentiation through transparency
 
 📱 **For Consumers**:
 
-•	QR code scanning to view maize journey
+     •	QR code scanning to view maize journey
 
-•	Farmer profiles and farming practices
+     •	Farmer profiles and farming practices
 
-•	Quality metrics and certifications
+     •	Quality metrics and certifications
 
-•	Direct farmer feedback and rating
+     •	Direct farmer feedback and rating
 
 📊 **For System Administrators**:
 
-•	Supply chain analytics and reporting
+     •	Supply chain analytics and reporting
 
-•	Quality trend monitoring
+     •	Quality trend monitoring
 
-•	Market intelligence data
+     •	Market intelligence data
 
-•	Export compliance documentation
+     •	Export compliance documentation
 
 
